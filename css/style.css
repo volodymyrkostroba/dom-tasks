@@ -1,0 +1,15 @@
+div{
+    margin-bottom: 30px;
+}
+
+
+.delete{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.delete-js{
+    opacity: 1;
+    pointer-events: visible;
+}
+
